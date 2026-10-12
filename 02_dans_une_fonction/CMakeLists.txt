@@ -1,0 +1,2 @@
+add_executable(02_dans_une_fonction main.cc)
+target_link_libraries(02_dans_une_fonction PRIVATE entity)
